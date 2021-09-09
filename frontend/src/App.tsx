@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>A Vivi é a vendedora mais linda caraaaaaaa</h1>
+      <h1 className="text-primary">App vendas Alusupra</h1>
     </div>
   );
 }
